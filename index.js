@@ -7,4 +7,4 @@ function changeIndentForFile (fileName, size) {
   fs.writeFileSync(fileName, changedFile)
 }
 
-exports = changeIndentForFile
+module.exports = changeIndentForFile
