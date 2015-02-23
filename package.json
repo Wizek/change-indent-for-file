@@ -1,0 +1,19 @@
+{
+  "name": "change-indent-for-file",
+  "version": "0.1.0",
+  "description": "A function that takes a file path and changes the indentation overwriting the original content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "change",
+    "indentation",
+    "file",
+    "indent",
+    "modify",
+    "spaces"
+  ],
+  "author": "Milan Nagy <123.wizek@gmail.com>",
+  "license": "ISC"
+}
