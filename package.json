@@ -1,6 +1,6 @@
 {
   "name": "change-indent-for-file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A function that takes a file path and changes the indentation overwriting the original content.",
   "main": "index.js",
   "scripts": {
